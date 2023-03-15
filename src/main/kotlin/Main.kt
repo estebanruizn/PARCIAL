@@ -11,7 +11,7 @@ fun main(args: Array<String>) {
         println("2. Contar monedas")
         println("3. Calcular dinero ahorrado")
         println("4. Romper alcancia")
-        println("5. Comenzar nueva alcancia")
+        println("5. Comenzar una nueva alcancia")
         println("Ingrese una opcion")
         var opc = readln().toInt()
         if (opc==1){
