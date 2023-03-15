@@ -16,7 +16,7 @@ class Alcancia {
         println("¿Que denomonación de monedas va a agregar?")
         var moneda = readln().toInt()
         if (moneda==1) {
-            println("Cuantas va a agregar")
+            println("Cuantas vas a agregar")
             var moneda20 = readln().toInt()
             moneda_20 += moneda20
             var total_moneda = moneda_20*20
